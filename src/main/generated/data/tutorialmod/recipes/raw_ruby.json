@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "K": {
+      "item": "tutorialmod:ruby"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SKS",
+    "SSS"
+  ],
+  "result": {
+    "item": "tutorialmod:raw_ruby"
+  },
+  "show_notification": true
+}
