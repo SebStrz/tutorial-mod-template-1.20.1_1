@@ -1,5 +1,11 @@
-// 1.20.1	2024-01-18T19:11:26.9104903	Tutorial Mod/Tags for minecraft:block
-b00cdd175c113155de5312c8d2f38c4da9587b12 data\minecraft\tags\blocks\mineable\pickaxe.json
+// 1.20.1	2024-01-20T17:48:47.4162112	Tutorial Mod/Tags for minecraft:block
+2c2950d0c33850440a6a78f67ec70701ac9e7939 data\minecraft\tags\blocks\walls.json
 7640d621beba2478ee75ce04857a20295d0efff2 data\tutorialmod\tags\blocks\metal_detector_detectable_blocks.json
-07f52b54acb7f800ec705e470e87eb4e8a43c9ee data\minecraft\tags\blocks\needs_iron_tool.json
-0bb509c56bcfaf742d50e3cbe7f9cea4dde780d0 data\minecraft\tags\blocks\needs_diamond_tool.json
+bab9a0bce534f0f9e6c38a8710d498a4a3c9bfa4 data\minecraft\tags\blocks\mineable\pickaxe.json
+557851e313abb0cef1734845a356572f1548a2b4 data\minecraft\tags\blocks\fence_gates.json
+6d699dbc87aadf988de9d94a6aaada632057338b data\minecraft\tags\blocks\fences.json
+58db322007f3f9ff8b97d63e468d450a2823d930 data\fabric\tags\blocks\needs_tool_level_4.json
+c716880e6ff6532ef3f8279ddfa40285b01886f3 data\tutorialmod\tags\blocks\mineable\paxel.json
+6446ed28cb4ab3f15e9b978234672715ad219d65 data\fabric\tags\blocks\needs_tool_level_5.json
+73c07b084712b06dbb0b224fdf6348000e5741df data\minecraft\tags\blocks\needs_diamond_tool.json
+f9fabe9220e61507183e29cd564839176e925f47 data\minecraft\tags\blocks\needs_iron_tool.json

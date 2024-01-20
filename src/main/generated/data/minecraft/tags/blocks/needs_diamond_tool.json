@@ -1,8 +1,6 @@
 {
   "replace": false,
   "values": [
-    "tutorialmod:deepslate_ruby_ore",
-    "tutorialmod:end_stone_ruby_ore",
-    "tutorialmod:nether_ruby_ore"
+    "tutorialmod:end_stone_ruby_ore"
   ]
 }

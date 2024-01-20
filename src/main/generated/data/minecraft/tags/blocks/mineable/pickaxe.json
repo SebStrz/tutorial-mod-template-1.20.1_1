@@ -7,6 +7,15 @@
     "tutorialmod:end_stone_ruby_ore",
     "tutorialmod:ruby_block",
     "tutorialmod:raw_ruby_block",
-    "tutorialmod:nether_ruby_ore"
+    "tutorialmod:nether_ruby_ore",
+    "tutorialmod:ruby_stairs",
+    "tutorialmod:ruby_slab",
+    "tutorialmod:ruby_pressure_plate",
+    "tutorialmod:ruby_button",
+    "tutorialmod:ruby_fence",
+    "tutorialmod:ruby_fence_gate",
+    "tutorialmod:ruby_wall",
+    "tutorialmod:ruby_door",
+    "tutorialmod:ruby_trapdoor"
   ]
 }

@@ -3,6 +3,13 @@
   "values": [
     "tutorialmod:raw_ruby_block",
     "tutorialmod:ruby_ore",
-    "tutorialmod:ruby_block"
+    "tutorialmod:ruby_block",
+    "tutorialmod:ruby_stairs",
+    "tutorialmod:ruby_slab",
+    "tutorialmod:ruby_fence",
+    "tutorialmod:ruby_fence_gate",
+    "tutorialmod:ruby_wall",
+    "tutorialmod:ruby_door",
+    "tutorialmod:ruby_trapdoor"
   ]
 }
